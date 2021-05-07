@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/httpL//allanchang96.github.io/chess_bitmasks/static/css/main.6b0ea5b0.chunk.css",
+    "main.js": "/httpL//allanchang96.github.io/chess_bitmasks/static/js/main.8ad81001.chunk.js",
+    "main.js.map": "/httpL//allanchang96.github.io/chess_bitmasks/static/js/main.8ad81001.chunk.js.map",
+    "runtime-main.js": "/httpL//allanchang96.github.io/chess_bitmasks/static/js/runtime-main.6061ab28.js",
+    "runtime-main.js.map": "/httpL//allanchang96.github.io/chess_bitmasks/static/js/runtime-main.6061ab28.js.map",
+    "static/js/2.253a9c42.chunk.js": "/httpL//allanchang96.github.io/chess_bitmasks/static/js/2.253a9c42.chunk.js",
+    "static/js/2.253a9c42.chunk.js.map": "/httpL//allanchang96.github.io/chess_bitmasks/static/js/2.253a9c42.chunk.js.map",
+    "index.html": "/httpL//allanchang96.github.io/chess_bitmasks/index.html",
+    "static/css/main.6b0ea5b0.chunk.css.map": "/httpL//allanchang96.github.io/chess_bitmasks/static/css/main.6b0ea5b0.chunk.css.map",
+    "static/js/2.253a9c42.chunk.js.LICENSE.txt": "/httpL//allanchang96.github.io/chess_bitmasks/static/js/2.253a9c42.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6061ab28.js",
+    "static/js/2.253a9c42.chunk.js",
+    "static/css/main.6b0ea5b0.chunk.css",
+    "static/js/main.8ad81001.chunk.js"
+  ]
+}

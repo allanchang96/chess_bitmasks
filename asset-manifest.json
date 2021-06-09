@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/chess_bitmasks/static/css/main.2517fcf7.chunk.css",
-    "main.js": "/chess_bitmasks/static/js/main.a1ecc98d.chunk.js",
-    "main.js.map": "/chess_bitmasks/static/js/main.a1ecc98d.chunk.js.map",
+    "main.js": "/chess_bitmasks/static/js/main.dd6aaa76.chunk.js",
+    "main.js.map": "/chess_bitmasks/static/js/main.dd6aaa76.chunk.js.map",
     "runtime-main.js": "/chess_bitmasks/static/js/runtime-main.4df4286c.js",
     "runtime-main.js.map": "/chess_bitmasks/static/js/runtime-main.4df4286c.js.map",
-    "static/js/2.253a9c42.chunk.js": "/chess_bitmasks/static/js/2.253a9c42.chunk.js",
-    "static/js/2.253a9c42.chunk.js.map": "/chess_bitmasks/static/js/2.253a9c42.chunk.js.map",
+    "static/js/2.9583d4c4.chunk.js": "/chess_bitmasks/static/js/2.9583d4c4.chunk.js",
+    "static/js/2.9583d4c4.chunk.js.map": "/chess_bitmasks/static/js/2.9583d4c4.chunk.js.map",
     "index.html": "/chess_bitmasks/index.html",
     "static/css/main.2517fcf7.chunk.css.map": "/chess_bitmasks/static/css/main.2517fcf7.chunk.css.map",
-    "static/js/2.253a9c42.chunk.js.LICENSE.txt": "/chess_bitmasks/static/js/2.253a9c42.chunk.js.LICENSE.txt"
+    "static/js/2.9583d4c4.chunk.js.LICENSE.txt": "/chess_bitmasks/static/js/2.9583d4c4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4df4286c.js",
-    "static/js/2.253a9c42.chunk.js",
+    "static/js/2.9583d4c4.chunk.js",
     "static/css/main.2517fcf7.chunk.css",
-    "static/js/main.a1ecc98d.chunk.js"
+    "static/js/main.dd6aaa76.chunk.js"
   ]
 }
